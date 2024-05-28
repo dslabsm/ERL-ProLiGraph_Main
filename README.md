@@ -1,6 +1,5 @@
 # ERL-ProLiGraph
-![Figure 1  Conceptual model of ERL-ProLiGraph](https://github.com/glorygeine/ERL-ProLiGraph_Main/assets/170915197/1ad99caa-be6c-4584-a323-40dbeea515d0)
-![Figure 1  Conceptual model of ERL-ProLiGraph](https://github.com/glorygeine/ERL-ProLiGraph_Main/assets/170915197/1ad99caa-be6c-4584-a323-40dbeea515d0)
+
 
 ## Requirements
 You'll need to install the following dependencies to run the codes.
