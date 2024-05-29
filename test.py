@@ -123,4 +123,4 @@ if __name__ == '__main__':
 
     Y, P = predicting(model, device, test_loader)
     calculate_metrics(Y, P, dataset)
-    # plot_density(Y, P, fold, dataset)
+    plot_density(Y, P, fold, dataset)
