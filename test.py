@@ -5,7 +5,7 @@ import numpy as np
 from random import shuffle
 import matplotlib.pyplot as plt
 from torch_geometric.data import Batch
-from emetrics import get_aupr, get_cindex, get_rm2, get_ci, get_mse, get_rmse, get_pearson, get_spearman
+from metrics import get_aupr, get_cindex, get_rm2, get_ci, get_mse, get_rmse, get_pearson, get_spearman
 from utils import *
 from scipy import stats
 from models.gcn import GCNNet
