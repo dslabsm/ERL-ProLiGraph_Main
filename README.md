@@ -18,7 +18,6 @@ You'll need to install the following dependencies to run the codes.
 *  torch-spline-conv
 *  torch-geometric
 *  hhsuite
-*  rdkit
 *  ccmpred 
 
 ## Data
