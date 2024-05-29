@@ -1,25 +1,6 @@
 # ERL-ProLiGraph
 ![ERL-ProLiGraph](https://github.com/dslabsm/ERL-ProLiGraph_Main/assets/170961645/e8ed54e6-7984-49a9-b09b-8fd5ce9003f6)
 
-## Requirements
-You'll need to install the following dependencies to run the codes.
-
-*  keras
-*  tensorflow
-*  numpy
-*  matplotlib
-*  scikit-learn
-*  rdkit
-*  pconsc4
-*  pytorch
-*  torch-scatter
-*  torch-sparse
-*  torch-cluster
-*  torch-spline-conv
-*  torch-geometric
-*  hhsuite
-*  ccmpred 
-
 ## Data
 The data can be found here in the [datasets](https://github.com/hkmztrk/DeepDTA/blob/master/data/README.md).
 *  The original Davis data and additional details can be accessed [here](http://staff.cs.utu.fi/~aatapa/data/DrugTarget/).
