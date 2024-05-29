@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-from torch_geometric.nn import SuperGATConv, global_max_pool as gmp, global_add_pool as gap,global_mean_pool as gep,global_sort_pool
+from torch_geometric.nn import SuperGATConv, global_mean_pool as gep
 from torch_geometric.utils import dropout_adj
 
 
