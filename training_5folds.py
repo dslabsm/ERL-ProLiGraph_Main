@@ -9,7 +9,7 @@ from models.graphsage_gcn import GraphSAGE_GCN
 from models.sage_supergat import SAGE_SuperGAT
 from models.supergat_gcn import SuperGAT_GCN
 from utils import *
-from emetrics import *
+from metrics import *
 from data_process import create_dataset_for_5folds
 
 
